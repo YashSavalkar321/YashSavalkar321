@@ -12,8 +12,6 @@
 <h1 align="center">Hi 👋, I'm Yash Savalkar</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
 
-<img align="right" alt="coding_gif" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **DSA**
 - 💡 I love working on **Full-Stack Development, DSA, and CP**
@@ -68,7 +66,7 @@
 
 ---
 
-### 🐍 Contribution Snake Game:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+# Holopin Stats
+[![An image of @yashsavalkar321 's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashsavalkar321)](https://www.holopin.io/@yashsavalkar321)
+
+
